@@ -1,2 +1,2 @@
-# Programacion
-Es un repositorio de prueba para prepcourse
+Hola este es un ejemplo de lo aprendido en la video clase, recordar cada paso hasta el momento 
+
